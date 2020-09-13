@@ -131,5 +131,6 @@ testing issues are resolved.
     o   Involved in manual and automation testing of the base product.
     o    Log identified defects in bugzilla
 
-
-
+# Education (2011 to 2015)
+### Don Bosco Institute of Technology (https://www.dbit.co.in/)
+#### : Computer Science and Enginerring (CS&E) with an aggregate of 74.47 %
