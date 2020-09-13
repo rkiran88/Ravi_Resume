@@ -72,7 +72,7 @@ testing issues are resolved.
 
 #####   Roles and Responsibilities:
 
-    o	Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
+    o   Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
     o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
     o	Analysing feature user stories and asking QA questions to the BA and get clarifications.
     o   Adding QA Scenarios on the user stories and creating regression test cases.
