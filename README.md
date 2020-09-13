@@ -11,14 +11,14 @@
 - 🥅 Strong experience on doing API automation using Robot Framework.
 - ⚡ Involved in Functional and Regression Testing and worked with development team to ensure
 testing issues are resolved.
-- ⚡ Exposure to Agile work environment
-- ⚡ Knowledge of end-to-end implementation of the SDLC, STLC
-- ⚡ Exposure to Vulnerability Assessment
-- ⚡ Good knowledge of OWASP Top 10.
-- ⚡ Performing black box vulnerability Assessment.
-- ⚡ Reporting the vulnerabilities by classifying them based on their severity
-- ⚡ Good knowledge of API Testing using Postman
-- ⚡ Basic exposure to UiPath- RPA tool
+- 🌱 Worked in Agile - Scrum work environment
+- 👯 Knowledge of end-to-end implementation of the SDLC, STLC
+- 🎇 Exposure to Vulnerability Assessment
+- 🔔 Good knowledge of OWASP Top 10.
+- 🎩 Performing black box vulnerability Assessment.
+- 🏂 Reporting the vulnerabilities by classifying them based on their severity
+- 💼 Good knowledge of API Testing using Postman
+- 📍 Basic exposure to UiPath- RPA tool
 
 ---
 
