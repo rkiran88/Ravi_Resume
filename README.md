@@ -20,4 +20,28 @@ testing issues are resolved.
 - ⚡ Good knowledge of API Testing using Postman
 - ⚡ Basic exposure to UiPath- RPA tool
 
+---
+
+# Skills
+
+    o	Manual Testing of the Application
+    o	Manual API Testing of the APIs using Postman
+    o	API Automation using Robot framework 
+    o	Web Application Automation selenium with Java
+    o	Security testing of the web application using Burp suite
+    o	Basic Web Application Automation using UiPath
+        
+---
+
+---
+
+# Certifications
+
+    o	Certified Ethical Hacker(v10) from EC Council
+
+---
+
+
+
+
 
