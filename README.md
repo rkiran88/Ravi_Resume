@@ -41,6 +41,78 @@ testing issues are resolved.
 
 ---
 
+# Work Experience 
+
+## Company: XXXXXX (July 2020 to Present)
+
+### 1.   Project: XXXXXXX
+
+#### Role: Software Development Engineer in Test 
+
+#####   Roles and Responsibilities:
+    o	As a first SDET joined the team, I am involved setting up QA process like Bug logging process, Feature testing process, Regression testing process.
+    o	Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
+    o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
+    o	Analysing feature user stories and asking QA questions to the BA and get clarifications.
+    o   Adding QA Scenarios on the user stories and creating regression test cases.
+    o   Involved in providing demo of features to other QA team members.
+    o   Involved in API Automation using Robot framework.
+    o   Log identified issues in JIRA and work with development team to ensure testing issues are resolved.
+    o   Perform security testing of the web application using OWASP ZAP Scan.
+    o   Analyze and validate application security identified vulnerabilities.
+    o   Create reports, detailing assessment findings and share with team lead.
+
+## Company: Sonata Software (October 2015 to July 2020)
+
+### 1.   Project: XXXXXXX (January 2018 to July 2020)
+### Description : xxxxxxx provides compliance software with a focus on global regulations. xxxxxxx solutions provide an entirely configurable platform that manages the complex and burdensome process associated with employee conflict of interest, connecting all areas and providing 360-degree view of all employee activity and behaviours.
+
+#### Role: Senior System Analyst 
+
+#####   Roles and Responsibilities:
+
+    o	Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
+    o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
+    o	Analysing feature user stories and asking QA questions to the BA and get clarifications.
+    o   Adding QA Scenarios on the user stories and creating regression test cases.
+    o   Involved in providing demo of features to other QA team members.
+    o   Involved in Web Application Automation using selenium with java.
+    o   Log identified issues in JIRA and work with development team to ensure testing issues are resolved.
+    o   Perform security testing of the web application using Burp suite pro.
+    o   Analyze and validate application security identified vulnerabilities.
+    o   Create reports, detailing assessment findings and share with team lead.
+    
+
+### 2.   Project: XXXXXXX (November 2017 – December 2017)
+
+### Description : xxxxxxx is a staffing company specialized in placing temporary employees in marketing and creative industries. According to Staffing Industry Analysts, it is among the "largest marketing/creative staffing firms in the United States
+
+#####   Roles and Responsibilities:
+
+    o   Identifying Automation Scenarios from the set of Testcases/User stories identified in cycle
+    o   Preparing the Test Scenarios and execution of Regression and Functional Test cases
+    o   Involved in designing, development and execution of automation test scripts.
+    o   Involved in manual and automation testing of the application
+    o   Log identified defects in Bugzilla
+    o   Identifying objects based on xpaths, id, name.
+    o   Handling multiple window, alert boxes, file uploads.
+    o   Attend daily stand up, status call
+    o   Research and know hacker methodology, system exploits
+    o   Perform security testing of the web application
+    o   Analyze and validate application security identified vulnerabilities
+    o   Attend Internal Training
+
+
+### 3.   POC: XXXXXXX (November 2016 – Decmber 2016)
+
+### Description : XXXXX provides infrastructure financing services in India
+
+#####   Roles and Responsibilities:
+
+    o   Performed the Usability testing for all the app
+    o   Preparing the Test Scenarios and execution of Functional Test cases
+    o   Performed functional testing of the Android
+    o   Identifying objects based on xpaths, id, name using UIAutomateViewer
 
 
 
