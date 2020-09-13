@@ -36,7 +36,7 @@ testing issues are resolved.
 
 ---
 
-# Tools aware of
+# Tools
 
 ##### Test Case Management - PractiTest, TM4J, Bugzilla, Testlink
 ##### Automation - Robot Framework, Selenium
