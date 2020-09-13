@@ -50,6 +50,7 @@ testing issues are resolved.
 #### Role: Software Development Engineer in Test 
 
 #####   Roles and Responsibilities:
+
     o	As a first SDET joined the team, I am involved setting up QA process like Bug logging process, Feature testing process, Regression testing process.
     o	Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
     o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
@@ -113,7 +114,22 @@ testing issues are resolved.
     o   Preparing the Test Scenarios and execution of Functional Test cases
     o   Performed functional testing of the Android
     o   Identifying objects based on xpaths, id, name using UIAutomateViewer
+    
+ 
+### 4.   Project: XXXXXXX (November 2015 – October 2016)
 
+### Description : xxxxxxx is a modern retailing platform that helps to get the best of Store & Digital led retailing to drive superior customer experience & win in the new economy. xxxxxxx platform is a pre-integrated technology solution spanning e-commerce, mobile engagement, retail operations and business insights
+
+#####   Roles and Responsibilities:
+
+    o   Identifying Automation Scenarios from the set of Testcases/User stories identified in cycle
+    o   Attend stand up calls, Retrospective meetings
+    o   Participate in testing kick-off meeting
+    o   Identifying Automation Scenarios from the set of Test cases/User stories identified in cycle
+    o   Involved in writing Test Scripts using Selenium Web Driver.
+    o   Preparing the Test Scenarios and execution of Regression and Functional Test cases
+    o   Involved in manual and automation testing of the base product.
+    o    Log identified defects in bugzilla
 
 
 
