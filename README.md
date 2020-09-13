@@ -52,8 +52,8 @@ testing issues are resolved.
 #####   Roles and Responsibilities:
     o   As a first SDET joined the team, I am involved setting up QA process like Bug logging process, Feature testing process, Regression testing process
     o   Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
-    o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
-    o	Analysing feature user stories and asking QA questions to the BA and get clarifications.
+    o   Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
+    o   Analysing feature user stories and asking QA questions to the BA and get clarifications.
     o   Adding QA Scenarios on the user stories and creating regression test cases.
     o   Involved in providing demo of features to other QA team members.
     o   Involved in API Automation using Robot framework.
