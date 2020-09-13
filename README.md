@@ -33,6 +33,20 @@ testing issues are resolved.
         
 ---
 
+
+---
+
+# Tools aware of
+
+## Test Case Management - PractiTest, TM4J, Bugzilla, Testlink
+## Automation - Robot Framework, Selenium
+## Languages - Java, Python
+## Security Testing tools - Burp suite, OWASP Zap Scan
+## Operatin Systems - Windows 10, Kali linux, Ubuntu, CentOS
+## Others -  Firebug, Firepath, UIautomat viewer, AutoIt, Skiuli UI, TestNG, Arachni, Tamper Data, Sqlmap, Hackbar, Cookie Manager
+        
+---
+
 ---
 
 # Certifications
