@@ -3,7 +3,7 @@
 - Email: ravikiranrkulkarnijseek@gmail.com
 - Phone: 7899527555
 
-## I'm Software Development Engineer in Test(SDET)
+## I'm Software Development Engineer in Test(SDET)/QA Enigneer, I assure the Quality of the Software.
 
 - 🔭 4 Years 11 months of Software industry experience in Software testing which includes doing Manual Testing of Web Application, Automation Testing of Web Application and API and Security testing
 - 🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, BLC.
@@ -50,9 +50,8 @@ testing issues are resolved.
 #### Role: Software Development Engineer in Test 
 
 #####   Roles and Responsibilities:
-
-    o	As a first SDET joined the team, I am involved setting up QA process like Bug logging process, Feature testing process, Regression testing process.
-    o	Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
+    o   As a first SDET joined the team, I am involved setting up QA process like Bug logging process, Feature testing process, Regression testing process
+    o   Involved in attending Daily stand up calls, Sprint refinement, Sprint planning, Sprint review and Sprint retrospective meetings.
     o	Actively involved in providing QA inputs in Sprint refinement and Sprint planning.
     o	Analysing feature user stories and asking QA questions to the BA and get clarifications.
     o   Adding QA Scenarios on the user stories and creating regression test cases.
@@ -133,4 +132,4 @@ testing issues are resolved.
 
 # Education (2011 to 2015)
 ### Don Bosco Institute of Technology (https://www.dbit.co.in/)
-#### : Computer Science and Enginerring (CS&E) with an aggregate of 74.47 %
+#### Computer Science and Enginerring (CS&E) with an aggregate of 74.47 %
